@@ -1,5 +1,11 @@
+# Needed something to ignore compiled haskell
+# One of those files has no extension
+
+# ignore all
 *
+# unignore directories
 !*/
+# unignore files with extensions
 !*.*
 
 .idea/
