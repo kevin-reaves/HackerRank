@@ -1,3 +1,8 @@
+"""
+https://www.hackerrank.com/challenges/python-time-delta
+"""
+
+
 #!/bin/python3
 
 import datetime
