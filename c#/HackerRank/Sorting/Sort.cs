@@ -4,11 +4,6 @@ namespace Sorting
 {
     class Sort
     {
-        static void Swap(int a, int b)
-        {
-            
-        }
-        
         static void BubbleSort(int[] unsorted)
         {
             int n = unsorted.Length;
