@@ -11,3 +11,7 @@
 .idea/
 *.hi
 *.o
+*.csproj
+bin/
+obj/
+*.sln
